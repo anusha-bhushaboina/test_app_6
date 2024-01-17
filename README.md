@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-"Ruby On Rails Developer"
+"This the first repository Ruby On Rails Developer by Anusha"
